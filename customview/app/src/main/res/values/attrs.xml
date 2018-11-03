@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义属性集合CustomView-->
+    <!--在该集合下添加不同的自定义属性-->
+    <declare-styleable name="Customview">
+        <!--此处定义图形的颜色:customview_color,格式是color-->
+        <attr name="customview_color" format="color"/>
+    </declare-styleable>
+</resources>
